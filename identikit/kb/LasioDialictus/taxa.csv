@@ -1,0 +1,8 @@
+Taxon,Unique,Size,HeadShape,GenaWidth,AbdColor,FaceColor,HeadShape,MesoPits,T1Patch,T2Patch,T1Basal,MesEpiColor,MesepiTexture,PropEdge,PropLength,PropLatCar,PropSculpture
+Lasioglossum ruidosense,Neither,UpTo5,Round|dunno,Narrow,DarkBrownBlack,Dark,Round,2,Absent,Small,Absent,Dark,Smooth,Rounded,Short,Absent,ShallowStriate
+Lasioglossum incompletum,Neither,UpTo5,Round|dunno,Narrow|One,LightTan,GreenOrBlue,Long,0.5|1,small,Large,Interrupted,Dark,Smooth,CarinaBroken,Long,Long,DeepStriate
+Lasioglossum albipenne,YellowVeins,UpTo5,Long|dunno,One,DarkBrownBlack,GreenOrBlue,Round,2,small,Large,Complete,Metallic,Rough,Rounded,Long,Long,
+Lasioglossum avalonense,Neither,UpTo5,Long|dunno,Narrow|One,DarkBrownBlack,Dark,Long,0.5,Absent,Small,Absent,Dark|Metallic,Smooth,Rounded,Long,Long,Anastomosing
+Lasioglossum villosulum ,Neither,Over5,Round|dunno,Narrow|One,DarkBrownBlack,GreenOrBlue,Round,1,Absent,Absent,Interrupted,Dark|Metallic,Smooth,Rounded,Short,Absent,ShallowStriate
+Lasioglossum cressonii.,Neither,Over5,Round|Long|dunno,Narrow,DarkBrownBlack,GreenOrBlue,Round,1,Absent,Large,Interrupted,Dark,Rough,CarinaBroken,Long,Long,DeepStriate
+Lasioglossum ocultum,YellowHair,Over5,Round|dunno,One,DarkBrownBlack,Dark,Round,0.5,Absent,Small,Absent,Dark,Roughish,Rounded,Short,Short,Anastomosing
