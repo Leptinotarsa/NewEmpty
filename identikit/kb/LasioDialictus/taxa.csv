@@ -1,11 +1,24 @@
-Taxon,Unique,Size,HeadShape,GenaWidth,AbdColor,FaceColor,HeadShape,MesoPits,MesoTexture,T1Patch,T2Patch,T1Basal,T3-4Hairs,T2HairBand,MesepiColor,MesepiHair,MesepiTexture,PropEdge,PropLength,PropLatCar,PropSculpture
-Lasioglossum ruidosense,Neither,UpTo5,Round|dunno,Narrow,DarkBrownBlack,Dark,Round,2,Lined,Absent,Small,Absent,Absent,Absent,Dark,Dark,Smooth,Rounded,Short,Absent,ShallowStriate
-Lasioglossum incompletum,Neither,UpTo5,Round|dunno,Narrow|One,LightTan,GreenOrBlue,Long,0.5|1,Lined,Small,Small,Interrupted,Present,Absent,Dark,Light,Smooth,CarinaBroken,Long,Long,DeepStriate
-Lasioglossum albipenne,YellowVeins,UpTo5,Long|dunno,One,DarkBrownBlack,GreenOrBlue,Round,2,Lined,Small,Small,Complete,Present,Absent,Metallic,Light,Rough,Rounded,Long,Long,
-Lasioglossum avalonense,Neither,UpTo5,Long|dunno,Narrow|One,DarkBrownBlack,Dark,Long,0.5,Lined,Absent,Small,Absent,Absent,Absent,Dark|Metallic,Light,Smooth,Rounded,Long,Long,Anastomosing
-Lasioglossum villosulum ,Neither,Over5,Round|dunno,Narrow|One,DarkBrownBlack,GreenOrBlue,Round,1,smooth,Absent,Absent,Interrupted,Absent,Absent,Dark|Metallic,Light,Smooth,Rounded,Short,Absent,ShallowStriate
-Lasioglossum cressonii.,Neither,Over5,Round|Long|dunno,Narrow,DarkBrownBlack,GreenOrBlue,Round,1,Lined,Absent,Small,Interrupted,Absent,Absent,Dark,Light,Rough,CarinaBroken,Long,Long,DeepStriate
-Lasioglossum occultum,YellowHair,Over5,Round|dunno,One,DarkBrownBlack,Dark,Round,0.5,smooth,Absent,Small,Absent,Absent,Present,Dark,Dark,Roughish,Rounded,Short,Short,Anastomosing
-#Lasioglossum zonulum,PropMetaSame,Over7,T1 pits,,DarkBrownBlack,Dark,,,,,,,,,,,,,,,
-#Lasioglossum sisymbrii,T1Patch,Over7,,,DarkBrownBlack,Dark,,,,,,,,,,,,,,,
-#Lasioglossum olympiae,,Over7,,,,,,,,,,,,,,,,,,,
+Taxon,Subgenus,Unique,Size,HeadShape,GenaWidth,AbdColor,FaceColor,MesoPits,MesoTexture,T1Patch,T2Patch,T1Basal,T3-4Hairs,T2HairBand,MesepiColor,MesepiHair,MesepiTexture,MesepiPits,PropEdge,PropLength,PropLatCar,PropSculpture
+Lasioglossum ruidosense,Dialictus,Neither,UpTo5,Round|dunno,Narrow,DarkBrownBlack,Dark,2,Lined,Absent,Small,Absent,Absent,Absent,Dark|Blue,Dark,Smooth,Absent,Rounded,Short,Short,Striate
+Lasioglossum incompletum,Dialictus,Neither,UpTo5,Round|dunno,Narrow|One,LightTan,GreenOrBlue,0.5|1,Lined,Small,Small,Interrupted,Present,Absent,Green,Light,Smooth,Present,CarinaBroken,Long,Long,Striate-Rugose
+Lasioglossum albipenne,Dialictus,YellowVeins,UpTo5,Long|dunno,One,DarkBrownBlack,GreenOrBlue,2,Lined,Small,Small,Complete,Present,Absent,Green,Light,Roughish,Absent,Rounded,Long,Long,
+Lasioglossum avalonense,Sphedogastra,Neither,UpTo5,Long|dunno,Narrow|One,DarkBrownBlack,Dark,0.5,Lined,Absent,Small,Absent,Absent,Absent,Dark|Metallic,Light,Smooth,Absent,Rounded,Long,Long,Rugose
+Lasioglossum villosulum ,Hemihalictus,Neither,Over5,Round|dunno,Narrow|One,DarkBrownBlack,GreenOrBlue,1,Smooth,Absent,Absent,Interrupted,Absent,Absent,Dark|Blue,Light,Smooth,Absent,Rounded,Short,Short,Striate-Areolate
+Lasioglossum cressonii,Dialictus,Neither,Over5,Round|Long|dunno,Narrow,DarkBrownBlack,GreenOrBlue,1,Lined,Absent,Small,Interrupted,Absent,Absent,Dark|Green,Light,Rough,Absent,CarinaBroken,Long,Long,Striate
+Lasioglossum occultum,Evylaeus,YellowHair,Over5,Round|dunno,One,DarkBrownBlack,Dark,0.5,Smooth,Absent,Small,Absent,Absent,Present,Dark,Dark,Roughish,Absent,Rounded,Short,Short,Striate-Rugose
+Lasioglossum mesiglab,Dialictus,Neither,Over5,Long,One,DarkBrownBlack,GreenOrBlue,1|2,Smooth,Absent,Absent,Complete|Interrupted,Absent,Absent,Dark|Blue,Light,Glabrous,Vague,Rounded,Short,Short,Striate
+Lasioglossum v,,Neither,Over5,Round,Narrow,DarkBrownBlack,Dark,0.5,Lined,Small,Small,Absent,Present,Absent,Dark,Light,Smooth,Absent,Rounded,Short,Short,Rugose
+Lasioglossum mesipunk,,Neither,Over5,Round,Narrow,DarkBrownBlack,Dark,2,Smooth,Absent,Absent,Absent,Absent,Absent,Dark,Light,Roughish,Present,Rounded,Short,Short,Striate
+,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,
+#Lasioglossum mesiglab,"Shiny, glabrous, flat mesepi with sparse shallow pits; otherwise like ruidosense",,,,,,,,,,,,,,,,,,,,,
+#Lasioglossum v,Anterior margin of propodeum V-shaped,,,,,,,,,,,,,,,,,,,,,
+#Lasioglossum mesipunk,"Dorsal part of mesepisternum, raised traingle, heavily pitted. IAE109714",,,,,,,,,,,,,,,,,,,,,
+"#Blue, rounded version of incompletum",,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,
+#Lasioglossum zonulum,,PropMetaSame,Over7,C,C,DarkBrownBlack,Dark,,,,,,,,,,,,,,,
+#Lasioglossum sisymbrii,,T1Patch,Over7,,,DarkBrownBlack,Dark,,,,,,,,,,,,,,,
+#Lasioglossum olympiae,,,Over7,,,,,,,,,,,,,,,,,,,
