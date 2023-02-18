@@ -1,5 +1,5 @@
 Group,Character,Label,Help,HelpShort,Status,ValueType,ControlType,Params,Weight,Latitude
-1st: subgroup,Taxon,Taxon,"Helpful to know this; however other traits in the key will converge on a subgenus. Guidance: consult: <a href=""""https://photos.smugmug.com/Misc/n-WzFZFQ/ID-Key-dialictus/i-RgJC3gt/2/3913dfe2/X5/Lasio%20subgenus%20chart1-X5.jpg"">Subgenus diagnosis</a>. The 4 sensu lato (weak-veined) subgenera in this key. Subgenus Lasioglossum s.s. is in another key",,key,text,multi,,10,
+Taxonomy,Taxon,Taxon,"Helpful to know this; however other traits in the key will converge on a subgenus. Guidance: consult: <a href=""""https://photos.smugmug.com/Misc/n-WzFZFQ/ID-Key-dialictus/i-RgJC3gt/2/3913dfe2/X5/Lasio%20subgenus%20chart1-X5.jpg"">Subgenus diagnosis</a>. The 4 sensu lato (weak-veined) subgenera in this key. Subgenus Lasioglossum s.s. is in another key",,key,text,multi,,10,
 Size,Size,Size in mm,,,key,text,multi,,4,
 head,GenaWidth,Genal width,"From the side, ratio of gena to eye. ",,key,text,multi,,2,
 head,FaceColor,Integument color on face,,,key,text,multi,,4,
