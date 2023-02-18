@@ -1,11 +1,11 @@
 Key,Type,Mandatory,Value,Date,Notes,,,,,,0
 #Main metadata about the key (e.g. for citing the key),,,,,,,,,,,
 title,metadata,yes,Identikit key: Weak-veined Lasioglossum of the Prairie Pollinator Project,,,,,,,,
-year,metadata,yes,2022,,,,,,,,
+year,metadata,yes,2023,,,,,,,,
 authors,metadata,yes,David Cappaert,,,,,,,,
 publisher,metadata,no,David Cappaert,,,,,,,,
 location,metadata,no,"Corvallis, OR",,,,,,,,
-contact,metadata,no,,,,,,,,,
+contact,metadata,no,cappaert@comcast.net,,,,,,,,
 version,metadata,yes,1.9.0,,,,,,,,
 #Releases - keep track of the release history below this line. Most recent releases at the top. The version code in the 'value' column below this line should match that of the current release above it.,,,,,,,,,,,
 release,history,no,1.9.0,9/15/19,Minor changes.,,,,,,

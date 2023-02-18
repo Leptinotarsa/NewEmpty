@@ -1,4 +1,4 @@
-Taxon,Taxon,Size,HeadShape,GenaWidth,SupraPits,SupraTexture,AbdColor,FaceColor,Wing,Spur,MesoPits,MesoTexture,T1Patch,T2Patch,T1Basal,T3-4Hairs,T3HairBand,T1Pits,AbdHyaline,MesepiColor,MesepiHair,MesepiTexture,MesepiPits,PropEdge,PropLength,PropLatCar,PropSculpture
+Taxon,Subgenus,Size,HeadShape,GenaWidth,SupraPits,SupraTexture,AbdColor,FaceColor,Wing,Spur,MesoPits,MesoTexture,T1Patch,T2Patch,T1Basal,T3-4Hairs,T3HairBand,T1Pits,AbdHyaline,MesepiColor,MesepiHair,MesepiTexture,MesepiPits,PropEdge,PropLength,PropLatCar,PropSculpture
 Lasioglossum ruidosense,Dialictus,UpTo5,Round,Narrow,2,Lined,Black,Dark,Weak,Long,2,Lined,Absent,Small,Erect,Absent,Absent,None,Absent,Dark|Blue,Dark,Uniform,Absent,Rounded,Short,Short,Striate
 Lasioglossum cressonii,Dialictus,Over5,Round,Narrow,1,Lined,Black,GreenOrBlue,Weak,Long,1,Lined,Absent,Small,Interrupted,Absent,Absent,Dense,Absent,Dark|Green,Light,Heavy,Absent,CarinaBroken,Long,Long,Striate
 Lasioglossum mesiglab,Dialictus,Over5,Long,One,2,Smooth,Black,GreenOrBlue,Weak,,1|2,Smooth,Absent,Small,Complete|Interrupted,Absent,Absent,None,Absent,Blue,Light,Glabrous,Vague,CarinaBroken,Short,Long,Striate
