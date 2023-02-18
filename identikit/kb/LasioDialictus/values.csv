@@ -1,7 +1,4 @@
 Character,CharacterState,CharacterStateTranslation,StateGroup,StateHelp,StateHelpShort
-Size,UpTo5,Less than 5mm,,Many are right on the border. Select both for borderline case,
-Size,Over5,Between 5 and 7mm,,,
-Size,Over7,Over 7 mm,,Consider whether large specimens are sensu stricto - See Sub group trait,
 Subgenus,Dialictus,Dialictus: Small bees with metallic integument,,Metallic coloration is definitive for this subgenus,
 Subgenus,Hemihalictus,Hemihalictus: small dark bees (<7mm>with weak carinae,,"Right click for <a href=""""https://photos.smugmug.com/Misc/n-WzFZFQ/ID-Key-dialictus/i-RgJC3gt/2/3913dfe2/X5/Lasio%20subgenus%20chart1-X5.jpg"">Subgenus diagnosis</a>.",
 Subgenus,Sphecodogasdtra,Sphecodogastra: small (<7mm) dark bees with strong carinae,,"Right click for <a href=""""https://photos.smugmug.com/Misc/n-WzFZFQ/ID-Key-dialictus/i-RgJC3gt/2/3913dfe2/X5/Lasio%20subgenus%20chart1-X5.jpg"">Subgenus diagnosis</a>.",
