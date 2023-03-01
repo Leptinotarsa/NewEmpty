@@ -1,18 +1,19 @@
-Taxon,Subgenus,HeadShape,GenaWidth,SupraPits,SupraTexture,AbdColor,FaceColor,Wing,Spur,MesoPits,MesoTexture,T1Patch,T2Patch,T1Basal,T3-4Hairs,T3HairBand,T1Pits,AbdHyaline,MesepiColor,MesepiHair,MesepiTexture,MesepiPits,PropEdge,PropLength,PropLatCar,PropSculpture
-L. ruidosense,Dialictus,Round,Narrow,2,Lined,Black,Dark,Weak,Long,2,Lined,Absent,Small,Erect,Absent,Absent,None,Absent,Dark|Blue,Dark,Uniform,Absent,Rounded,Short,Short,Striate
-L. cressonii,Dialictus,Round,Narrow,1,Lined,Black,GreenOrBlue,Weak,Long,1,Lined,Absent,Small,Interrupted,Absent,Absent,Dense,Absent,Dark|Green,Light,Heavy,Absent,CarinaBroken,Long,Long,Striate
-L. mesiglab,Dialictus,Long,One,2,Smooth,Black,GreenOrBlue,Weak,,1|2,Smooth,Absent,Small,Complete|Interrupted,Absent,Absent,None,Absent,Blue,Light,Glabrous,Vague,CarinaBroken,Short,Long,Striate
-L. incompletum,Dialictus,Long,Narrow|One,0.5,Lined,LightTan,GreenOrBlue,Weak,Long,0.5|1,Lined,Small,Small,Interrupted,Present,Absent,,Absent,Green,Light,Light,Present,CarinaBroken,Long,Long,Striate
-L. blueink,Dialictus,Round,Narrow|One,1,Lined,LightTan,GreenOrBlue,Weak,Long,1,Lined,Small,Small,Interrupted,Present,Absent,None,Absent,Blue,Light,Light,Present,Rounded,Short,Short,Striate-Rugose
-L. albipenne,Dialictus,Long,One,0.5,Lined,Black,GreenOrBlue,Weak,,2,Lined,Small,Small,Complete,Present,Absent,,Present,Green,Light,Uniform | Heavy,Absent,Rounded,Long,Long,Striate
-L. avalonense,Sphecodogastra,Round,Narrow|One,1,Lined,Black,Dark,Weak,,0.5,Lined,Absent,Small,Absent,Absent,Absent,,Absent,Dark,Light,Uniform,Absent,Rounded,Long,Long,Rugose
-L. v,,Round,Narrow,,,Black,Dark,Weak,,0.5,Lined,Small,Small,Absent,Absent,Absent,,Absent,Dark,Light,Uniform,Absent,Rounded,Short,Short,Rugose
-L. villosulum,Hemihalictus,Round | Long,Narrow,0.5,Lined,Black,Dark,Weak,Short,2,Smooth,Absent,Absent,Erect,Absent,Absent,Dense,Absent,Dark,Heavy,Smooth,Present,Rounded,Short,Short,Striate
-L. kincaidii,Hemihalictus,Round,One,1,Lined,Brown,Dark,Weak,Long,0.5,Lined,Absent,Small,Erect,Absent,Absent,Impunctate,Absent,Dark,Light,Heavy,Absent,CarinaBroken,Long,Long,Striate-Rugose
-L. villobar,Dialictus,Round|dunno,Narrow|One,2,Smooth,Black,GreenOrBlue,Weak,Long,1,Smooth,Absent,Absent,Interrupted,Absent,Absent,None,Absent,Dark|Blue,Light,Light,Absent,Rounded,Short,Short,Striate-Areolate
-L. occultum,Sphecodogastra,Round,One,1|2,Smooth,Brown,Dark,Weak,Long,0.5,Smooth,Absent,Small,Erect,Absent|present,Present,Dense,Present,Dark,Dark,Uniform | Heavy,Absent,CarinaBroken,Short | Long,Long,Striate-Rugose
-L. s.s.,LasioLasio,Round,,,,Brown,,Strong,,,,,,,,,,,,,,,,,,
-L. argemonis,Evylaeus,Round,Wide,1|0.5,Lined,Brown,Dark,Weak,Serrate,0.5,Smooth,Absent,Absent,Erect,Absent,,Dense,Absent,Dark,Dark,Uniform,Absent,Rounded,Long,Short,Striate
-#L. zonulum,,C,C,,,DarkBrownBlack,Dark,,,,,,,,,,,,,,,,,,,
-#L. sisymbrii,,,,,,DarkBrownBlack,Dark,,,,,,,,,,,,,,,,,,,
-#L. olympiae,,,,,,,,,,,,,,,,,,,,,,,,,,
+Taxon,Subgenus,HeadShape,GenaWidth,SupraPits,SupraTexture,AbdColor,FaceColor,Wing,Spur,MesoPits,MesoTexture,T2Patch,T1Basal,T3-4Hairs,T3HairBand,T1Pits,AbdHyaline,MesepiColor,MesepiHair,MesepiTexture,MesepiPits,PropEdge,PropLength,PropLatCar,PropSculpture
+L. ruidosense,Dialictus,Round,Narrow,2,Lined,Black,Dark,Weak,Long,Sparse,Lined,Small,Erect,Absent,Absent,None,Absent,Dark|Blue,Dark,Uniform,Absent,Rounded,Short,Short,Striate
+L. cressonii,Dialictus,Round,Narrow,1,Lined,Black,GreenOrBlue,Weak,Long,Moderate,Lined,Small,Interrupted,Absent,Absent,Dense,Absent,Dark|Green,Light,Heavy,Absent,CarinaBroken,Long,Long,Striate
+L. mesiglab,Dialictus,Round,One,2,Smooth,Black,GreenOrBlue,Weak,Long,Sparse,Smooth,Small,Complete|Interrupted,Absent,Absent,None,Absent,Blue,Light,Glabrous,Vague,CarinaBroken,Short,Long,Striate
+L. incompletum,Dialictus,Long,Narrow|One,0.5,Lined,LightTan,GreenOrBlue,Weak,Long,Dense | Moderate,Lined,Small,Interrupted,Present,Absent,,Absent,Green,Light,Light,Present,CarinaBroken,Long,Long,Striate
+L. blueink,Dialictus,Round,Narrow|One,1,Lined,LightTan,GreenOrBlue,Weak,Long,Moderate,Lined,Small,Interrupted,Present,Absent,None,Absent,Blue,Light,Light | Uniform,Present,Rounded,Short,Short,Striate-Rugose
+L. albipenne,Dialictus,Long,One,0.5,Lined,Black,GreenOrBlue,Weak,,Sparse,Lined,Small,Complete,Present,Absent,,Present,Green,Light,Uniform | Heavy,Absent,Rounded,Long,Long,Striate
+L. avalonense,Sphecodogastra,Round,Narrow|One,1,Lined,Black,Dark,Weak,,Dense,Lined,Small,Absent,Absent,Absent,,Absent,Dark,Light,Uniform,Absent,Rounded,Long,Long,Rugose
+L. v,,Round,Narrow,,,Black,Dark,Weak,,Dense,Lined,Small,Absent,Absent,Absent,,Absent,Dark,Light,Uniform,Absent,Rounded,Short,Short,Rugose
+L. villosulum,Hemihalictus,Round | Long,Narrow,0.5,Lined,Black,Dark,Weak,Short,Sparse,Smooth,Absent,Erect,Absent,Absent,Dense,Absent,Dark,Heavy,Smooth,Present,Rounded,Short,Short,Striate
+L. kincaidii,Hemihalictus,Round,One,1,Lined,Brown,Dark,Weak,Long,Dense,Lined,Small,Erect,Absent,Absent,None,Absent,Dark,Light,Heavy,Absent,CarinaBroken,Long,Long,Striate-Rugose
+L. villobar,Dialictus,Round|dunno,Narrow|One,2,Smooth,Black,GreenOrBlue,Weak,Long,Moderate,Smooth,Absent,Interrupted,Absent,Absent,None,Absent,Dark|Blue,Light,Light,Absent,Rounded,Short,Short,Striate-Areolate
+L. occultum,Sphecodogastra,Round,One,1|2,Smooth,Brown,Dark,Weak,Long,Dense,Smooth,Small,Erect,Absent|present,Present,Dense,Present,Dark,Dark,Uniform | Heavy,Absent,CarinaBroken,Short | Long,Long,Striate-Rugose
+L. s.s.,LasioLasio,Round,,,,Brown,,Strong,,,,,,,,,,,,,,,,,
+L. argemonis,Evylaeus,Round,Wide,1|0.5,Lined,Brown,Dark,Weak,Serrate,Dense,Smooth,Absent,Erect,Absent,,Dense,Absent,Dark,Dark,Uniform,Absent,Rounded,Long,Short,Striate
+L. cavness,Dialictus,Round,One,2,Smooth,LightTan,GreenOrBlue,Weak,Long,Moderate,Smooth,Small,Complete,Present,Absent,Sparse,Absent,Green,Light,Smooth | Light,Present,Rounded,Long,Short,Striate
+#L. zonulum,,,C,,,DarkBrownBlack,Dark,,,,,,,,,,,,,,,,,,
+#L. sisymbrii,,,,,,DarkBrownBlack,Dark,,,,,,,,,,,,,,,,,,
+#L. olympiae,,,,,,,,,,,,,,,,,,,,,,,,,
