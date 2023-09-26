@@ -1,5 +1,7 @@
 Group,,Character,Label,Help,HelpShort,Status,ValueType,ControlType,Params,Weight,Latitude
+,,Length,Length in mm,,,key,numeric,spin,"4,8,0.5",10,2
 Subgenus,,Subgenus,Subgenus,"Helpful to know this; however other traits in the key will converge on a subgenus. Right click to open page: <a href=""https://photos.smugmug.com/Misc/n-WzFZFQ/ID-Key-dialictus/i-RgJC3gt/2/3913dfe2/X5/Lasio%20subgenus%20chart1-X5.jpg"">Subgenus diagnosis</a>",,key,text,multi,,10,
+Head,,FaceDimensions,Height/Width,Height=from median ocellus to bottom of clypeus. Width=widest distance across eyes,,key,numeric,spin,".7,1.3,.04",2,2
 head,,GenaWidth,Genal width,"From the side, ratio of gena to eye. ",,key,text,multi,,2,
 head,,FaceColor,Integument color on face,,,key,text,multi,,4,
 head,,HeadShape,"Head shape, impression","Difficult to quantify. In the photos, what is close?",,key,text,multi,,4,
@@ -19,8 +21,11 @@ abdomen ,,AbdColor,Color of abdominal terga,,,key,text,multi,,2,
 abdomen ,,T2Patch,Area of appressed hairs on sides of T2,,,key,text,multi,,4,
 abdomen ,,T1Basal,"""Fan"" of hairs on T1 facing thorax",,,key,text,multi,,4,
 abdomen ,,T1Pits,"Pitting on T1, wherever pits are densest",,,key,text,multi,,3,
+abdomen ,,T2Pits,Pits on T2,,,key,text,multi,,3,
+abdomen ,,T1Surf,Sculpturing basally on T1,,,key,text,multi,,2,
 abdomen ,,T3-4Hairs,Long hairs on T3 and T4; not hair bands,,,key,text,multi,,4,
 abdomen ,,T3HairBand,"T3 Basal hair band, similar to that of large Lasios ",,,key,text,multi,,5,
 abdomen ,,AbdHyaline,"Posterior edge of T2, compared to middle of segment",,,key,text,multi,,6,
 "Wing, leg",,Wing,Second SMC cross vein,See photos. Strong veined taxa in separate key,,key,text,multi,,4,
 "Wing, leg",,Spur,Inner hind tibial spur,Inner - the side held against the body,,key,text,multi,,4,
+,,*Unique,Unique to taxon,A few species exhibit one defining feature,,,,,,,
