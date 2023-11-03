@@ -1,22 +1,22 @@
 Taxon,Subgenus,Length,FaceDimensions,HeadShape,GenaWidth,SupraPits,SupraTexture,AbdColor,FaceColor,Wing,MesoPits,MesoTexture,T2Patch,T1Basal,T3-4Hairs,T3HairBand,T1Pits,T2Pits,T1Surf,AbdHyaline,MesepiHair,MesepiTexture,MesepiPits,PropEdge,PropLength,PropLatCar,PropSculpture,PropSculpture
 L. ruidosense,Dialictus,,0.81,Round,Wide,2,Lined,Black,Dark|Green,Weak,Sparse,Lined,Small,Erect,Absent,Absent,None,Absent,Lined,Absent,Light,Uniform,Absent,Rounded,Short,Short,Striate,Striate
 L. cressonii,Dialictus,7,0.82,Round,Narrow,1,Lined,Black,Gold,Weak,Moderate,Lined,Small,Interrupted,Absent,Absent,Dense,Present,Lined,Absent,Light,Heavy,Absent,CarinaBroken,Long,Long,Striate,Striate
-L. mesiglab,Dialictus,6,0.78,Round,One,2,Smooth,Black,,Weak,Sparse,Smooth,Small,Complete|Interrupted,Absent,Absent,None,Absent,Smooth,Absent,Light,Glabrous,Absent|Present,CarinaBroken,Short,Long,Striate,Striate
+L. aff. tenax,Dialictus,6,0.78,Round,One,2,Smooth,Black,,Weak,Sparse,Smooth,Small,Complete|Interrupted,Absent,Absent,None,Absent,Smooth,Absent,Light,Glabrous,Absent|Present,CarinaBroken,Short,Long,Striate,Striate
 L. incompletum,Dialictus,5,0.82,Long,Wide,0.5,Lined,LightTan,Green,Weak,Dense | Moderate,Lined,Small,Interrupted,Sparse,Absent,None,Absent,Lined,Absent,Light,Light,Present,CarinaBroken,Long,Long,Striate,Striate
 L. blueink,Dialictus,6,0.76,Round,Narrow|One,1,Lined,LightTan,Blue,Weak,Moderate,Lined,Small,Interrupted,Absent|Present,Absent,None,Present,Smooth,Absent,Light,Light | Uniform,Present,Rounded,Short,Short,Striate-Rugose,Striate-Rugose
 L. albipenne,Dialictus,6.5,0.83,Long,One,0.5,Lined,Black,Blue,Weak,Sparse,Lined,Small,Complete,Dense,Absent,Sparse,Absent,Lined,Present,Light,Uniform | Heavy,Absent,Rounded,Long,Long,Striate,Striate
 L. avalonense,Sphecodogastra,7.5,0.8,Round,Narrow|One,1,Lined,Black,Dark,Weak,Dense,Lined,Small,Absent,Absent,Absent,Sparse,Absent,Smooth,Absent,Light,Uniform,Absent,Rounded,Long,Long,Rugose,Rugose
 L. v,,,,Round,Narrow,,,Black,Dark,Weak,Dense,Lined,Small,Absent,Absent,Absent,,,,Absent,Light,Uniform,Absent,Rounded,Short,Short,Rugose,Rugose
-L. villosulum,Hemihalictus,,,Round | Long,Narrow,0.5,Lined,Black,Dark,Weak,Sparse,Smooth,Absent,Erect,Absent,Absent,Dense,,,Absent,Light,Smooth,Present,Rounded,Short,Short,Striate,Striate
+L. villosulum,Hemihalictus,7,,Round | Long,Narrow,0.5,Lined,Black,Dark,Weak,Sparse,Smooth,Absent,Erect,Absent,Absent,Dense,Present,Smooth,Absent,Light,Smooth,Present,Rounded,Short,Short,Striate,Striate
 L. kincaidii,Hemihalictus,,,Round,One,1,Lined,Brown,Dark,Weak,Dense,Lined,Small,Erect,Absent,Absent,None,,,Absent,Light,Heavy,Absent,CarinaBroken,Long,Long,Striate-Rugose,Striate-Rugose
 # Grouped now with blueink L. villobar,Dialictus,,,Round|dunno,Narrow|One,2,Smooth,Black,GreenOrBlue,Weak,Moderate,Smooth,Absent,Interrupted,Absent,Absent,None,,,Absent,Light,Light,Absent,Rounded,Short,Short,Striate-Areolate,Striate-Areolate
 L. occultum,Sphecodogastra,9,,Round,One,1|2,Smooth,Brown,Dark,Weak,Dense,Smooth|Lined,Small,Erect,Absent|Present,Present,Dense,,,Present,Dark,Uniform | Heavy,Absent,CarinaBroken,Short | Long,Long,Striate-Rugose,Striate-Rugose
 L. s.s.,LasioLasio,,,Round,,,,Brown,,Strong,,,,,,,,,,,,,,,,,,
 L. argemonis,Evylaeus,,,Round,Wide,1|0.5,Lined,Brown,Dark,Weak,Dense,Smooth,Absent,Erect,Absent,,Dense,,,Absent,Dark,Uniform,Absent,Rounded,Long,Short,Striate,Striate
-L. cavness,Dialictus,,,Round,One,2,Smooth,LightTan,Green,Weak,Moderate,Smooth,Small,Complete,Present,Absent,Sparse,,,Absent,Light,Smooth | Light,Present,Rounded,Long,Short,Striate,Striate
+L. punctatoventre,Dialictus,,,Round,One,2,Smooth,LightTan,Green,Weak,Moderate,Smooth,Small,Complete,Present,Absent,Sparse,,,Absent,Light,Smooth | Light,Present,Rounded,Long,Short,Striate,Striate
 L. hyalinum,Dialictus,6,0.8,Long,One,2,Smooth,Brown,Green,Weak,Dense,Smooth,Small,Interrupted,Dense,Absent,Dense,Present,Smooth,Absent,Light,Smooth | Light,Present,Rounded,Short,Short,Striate,Striate
 L. pruinosum,Dialictus,6.5,1,Long,One,2,Lined,Brown,GreenOrBlue,Weak,Moderate,Lined,Small,Interrupted,Present,Absent,Sparse,Absent,Lined,Absent,Light,Uniform,Present,Rounded,Short | Long,Short,Striate,Striate
-L. MS CR-4,Dialictus,5,0.81,Round,Narrow,1,Lined,,Green,Weak,Moderate,Lined,Small,Interrupted,Present,Absent,None,,Smooth,Absent,Light,Light,Present,Rounded,Long,Short,Striate,Striate
+L. nevadense,Dialictus,5,0.81,Round,Narrow,1,Lined,,Green,Weak,Moderate,Lined,Small,Interrupted,Present,Absent,None,,Smooth,Absent,Light,Light,Present,Rounded,Long,Short,Striate,Striate
 L. helianthi,Dialictus,5,0.8,Round,Narrow,1,Lined,Brown,Green,Weak,Moderate,Lined,Small,Interrupted,Sparse,Absent,Sparse,Absent,Lined,Absent,Light,Uniform,Present,CarinaBroken,Long,Short,Striate,Striate
 L. MS CR-1,Dialictus,7,0.73,Round,One|Wide,1,Lined,Brown,Dark,Weak,Dense,Lined,Absent,Interrupted,Sparse,Absent,Sparse,Present,Lined,Absent,Light,Light | Uniform,Present,Rounded,Long,Short,Striate,Striate
 L. pruinosum,Dialictus,6.5,1,Long,One,1,Lined,Brown,Green|Gold,Weak,Moderate,Lined,Small,Interrupted,Dense,Absent,Dense,Absent,Smooth,Absent,Light,Uniform,Absent,Rounded,Short,Short,Striate,Striate
